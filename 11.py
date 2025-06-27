@@ -1,2 +1,1 @@
 
-matn=input("Matnni kiriting : ")
