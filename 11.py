@@ -1,4 +1,6 @@
-s = "Salom, Dunyo!"
-yangi_satr = s.replace('o', 'a')
-print(yangi_satr)
-
+# ism="Ali"
+# familiya="Valiyev"
+# yosh=22
+bozorliklar=["Olma","Tuz","Shakar","Kartoshka","Olma","Anor"]
+bozorliklar.reverse()
+print(bozorliklar)
